@@ -1,0 +1,12 @@
+.spin{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questions{
+    background-image: url(../../../public/img/exam.jpg);
+    background-position: center center;
+    background-size: cover;
+
+}

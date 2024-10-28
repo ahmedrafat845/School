@@ -1,0 +1,10 @@
+.bg{
+    background-image: url(../../../public/img/bg3.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: calc(100vh - 86px);
+}
+.form{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px  15px rgb(93, 92, 92);
+}

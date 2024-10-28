@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.navbarBrand{
+    font-family: "Sacramento", cursive;
+    font-size: 26px !important;
+    font-weight: 900;
+    font-style:oblique;
+  
+}

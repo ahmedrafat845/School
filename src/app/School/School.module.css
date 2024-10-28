@@ -1,0 +1,23 @@
+.bg{
+    background-image:url(../../../public/img/bg1.jpg);
+    background-size: cover;
+    background-position: center center;
+    min-height: calc(100vh - 86px);
+}
+
+.form{
+    background-color: rgb(176, 222, 176);
+    background-image: url(../../../public/img/light-patten.svg);
+    box-shadow: 10px 5px 15px rgb(0, 0, 0)
+}
+.line{
+    width:70%;
+    height: 5px;
+    background-color: rgb(255, 0, 170);
+    margin: 20px 0px;
+}
+.gradeImg{
+    height: 200px;
+    width: 150px;
+
+}
